@@ -12,5 +12,6 @@ public class Main {
         Ant ant = new Ant();
         ant.collect();
         ant.eat();
+        System.out.println("This git make me angry");
     }
 }

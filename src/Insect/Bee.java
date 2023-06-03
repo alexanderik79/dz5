@@ -7,7 +7,7 @@ public class Bee extends Insect {
     }
 
     @Override
-    public void collectNectar() {
+    public void collect() {
         System.out.println("The honey bee is collecting nectar from flowers");
     }
 }

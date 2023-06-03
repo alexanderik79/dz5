@@ -6,5 +6,6 @@ public abstract class Printer implements Printable  {
     @Override
     public void print() {
         System.out.println("i can print");
+        System.out.println("second branch");
     }
 }

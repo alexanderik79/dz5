@@ -1,4 +1,4 @@
-import Insect.Ant;
+
 import Insect.Bee;
 import Print.OfficePrinter;
 
@@ -9,8 +9,6 @@ public class Main {
         Bee bee=new Bee();
         bee.collectNectar();
         bee.eat();
-        Ant ant = new Ant();
-        ant.collect();
-        ant.eat();
+
     }
 }

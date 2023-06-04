@@ -8,5 +8,8 @@ public class Main {
         Bee bee=new Bee();
         bee.collectNectar();
         bee.eat();
+        System.out.println("Im very angry");
+        System.out.println("test remove");
+        System.out.println("end test");
     }
 }

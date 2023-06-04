@@ -13,5 +13,11 @@ public class Main {
         ant.collect();
         ant.eat();
         System.out.println("This git make me angry");
+
+        // Пацаган
+        Bee bee1=new Bee();
+        bee1.collect();
+        bee1.eat();
+        System.out.println("it can confuse");
     }
 }

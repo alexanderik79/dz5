@@ -7,7 +7,7 @@ public class Main {
         OfficePrinter officePrinter = new OfficePrinter();
         officePrinter.print();
         Bee bee=new Bee();
-        bee.collect();
+        bee.collectNectar();
         bee.eat();
         Ant ant = new Ant();
         ant.collect();

@@ -5,5 +5,7 @@ public class Main {
 
         OfficeColorPrinter officeColorPrinter = new OfficeColorPrinter();
         officeColorPrinter.print();
+
+        System.out.println("еле восстановил");
     }
 }

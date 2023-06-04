@@ -3,5 +3,7 @@ public class Main {
         OfficePrinter officePrinter = new OfficePrinter();
         officePrinter.print();
 
+        OfficeColorPrinter officeColorPrinter = new OfficeColorPrinter();
+        officeColorPrinter.print();
     }
 }

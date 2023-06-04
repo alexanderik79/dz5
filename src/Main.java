@@ -10,5 +10,6 @@ public class Main {
         bee.eat();
         System.out.println("Im very angry");
         System.out.println("test remove");
+        System.out.println("end test");
     }
 }

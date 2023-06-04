@@ -1,5 +1,5 @@
 package interfaces;
 
 public interface Collectable {
-    void collectNectar();
+    void collect();
 }
